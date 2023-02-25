@@ -1,0 +1,7 @@
+{
+  "name": "pikojs",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "tweetnacl-blake2b": "^1.0.1"
+  }
+}
