@@ -1,6 +1,9 @@
 # PikoJS 🧠
 ### A JavaScript library for interacting with pikod
 
+
+## Installation
+### Install module using ``npm install Pikoledger/pikojs`` in project folder.
 ## Usage
 ## Executing methods of pikod
 ```JS
